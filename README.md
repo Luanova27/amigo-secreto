@@ -14,15 +14,17 @@ Criado como parte da Formação Inicial em Lógica de Programação do ONE (Orac
 
 ### Funcionamento da Lógica
 
-**Funcionamento Geral**
-➡ Quando o sorteio começa, o código cria uma segunda lista, destinatarios, que é uma cópia da sua lista de amigos.
-➡ Em seguida, ele percorre a lista original, pegando uma pessoa de cada vez para ser o "doador".
-➡ Para cada doador, ele entra em um loop do-while:
-➡ Ele sorteia um nome aleatório da lista de destinatarios.
-➡ Ele verifica se o nome sorteado é a mesma pessoa que está dando o presente.
+**Funcionamento da Lógica**
+
+➡ Quando o sorteio começa, o código cria uma segunda lista, destinatarios, que é uma cópia da sua lista de amigos.  
+➡ Em seguida, ele percorre a lista original, pegando uma pessoa de cada vez para ser o "doador".  
+➡ Para cada doador, ele entra em um loop do-while:  
+➡ Ele sorteia um nome aleatório da lista de destinatarios.  
+➡ Ele verifica se o nome sorteado é a mesma pessoa que está dando o presente.  
 ➡ Se for, ele repete o sorteio (do-while (pessoa === sorteado)). Isso garante que ninguém tire a si mesmo.
 
 **Sorteio Aleatório**
+
 ➡ Mínimo de 4 participantes para iniciar.
 ➡ Ocultação de lista de sorteados.
 
