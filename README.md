@@ -12,9 +12,9 @@ Você pode visualizar o projeto online clicando neste link:
 
 Criado como parte da Formação Inicial em Lógica de Programação do ONE (Oracle Next Education) e Alura, este projeto é uma aplicação web interativa. Utilizando HTML, CSS e JavaScript, a ferramenta oferece uma maneira simples de organizar sorteios, permitindo que usuários insiram nomes e realizem um sorteio aleatório.
 
-### Funcionalidades
+### Funcionamento da Lógica
 
-**Funcionamento da Lógica**
+**Funcionamento Geral**
 ➡ Quando o sorteio começa, o código cria uma segunda lista, destinatarios, que é uma cópia da sua lista de amigos.
 ➡ Em seguida, ele percorre a lista original, pegando uma pessoa de cada vez para ser o "doador".
 ➡ Para cada doador, ele entra em um loop do-while:
@@ -23,8 +23,8 @@ Criado como parte da Formação Inicial em Lógica de Programação do ONE (Orac
 ➡ Se for, ele repete o sorteio (do-while (pessoa === sorteado)). Isso garante que ninguém tire a si mesmo.
 
 **Sorteio Aleatório**
-➡ Mínimo de 4 participantes para iniciar
-➡ Ocultação de lista de sorteados 
+➡ Mínimo de 4 participantes para iniciar.
+➡ Ocultação de lista de sorteados.
 
 ### 💫 Tecnologias Utilizadas
 
