@@ -40,5 +40,5 @@ Criado como parte da Formação Inicial em Lógica de Programação do ONE (Orac
 
 Luanova (Thais Motta) — Migrando de Carreira: Da Marcenaria para T.I
 <br>
-🔗 [https://www.linkedin.com/in/thais-luanova-11722b361/](https://www.linkedin.com/in/thais-luanova-11722b361/) ✉️ Email: portalthaismotta@gmail.com
+🔗 Linkedin: [https://www.linkedin.com/in/thais-luanova-11722b361/](https://www.linkedin.com/in/thais-luanova-11722b361/) ✉️ Email: portalthaismotta@gmail.com
 
